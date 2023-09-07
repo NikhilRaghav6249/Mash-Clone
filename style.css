@@ -1,0 +1,69 @@
+
+
+/* NAV BAR */
+.orenge:hover{
+background-color: orange;
+
+}
+
+/* BIG SECTION */
+
+.crousel-height{
+  max-height: 800px;
+overflow-y: hidden;
+
+}
+
+ 
+
+.yellow{
+  background-color: yellow;
+}
+
+/* second section */
+
+.background-image1{
+background-image: url(asset\ 3.jpeg);
+background-size: cover;
+}
+
+.background-image2{
+background-image: url(asset\ 4.jpeg);
+background-size: cover;
+}
+
+.background-image3{
+  background-image: url(asset\ 5.jpeg);
+  background-size: cover;
+  }
+  
+
+.paragraph{
+margin-top: 100%;
+color: white;
+}
+
+.gray{
+background-color: #ccc;
+
+}
+
+/* forth section */
+
+.div1:hover{
+ box-shadow: 0 0 20px #888;
+
+  
+}
+
+.div1{
+  transition: 0.8s ease-out;
+}
+
+
+
+/* <img class="d-block w-100 cover" src="./img/asset 26.jpeg" alt="First slide"> */
+
+
+
+
