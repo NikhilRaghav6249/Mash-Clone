@@ -1,0 +1,23 @@
+
+.orenge:hover{
+    background-color: orange;
+    
+    }
+
+    .div1:hover{
+        box-shadow: 0 0 50px #888;
+    }
+
+    .div1{
+
+        transition: 0.5s ease-out;
+    }
+
+    .blue:hover{
+        color: blue;
+    }
+
+    
+
+
+    
